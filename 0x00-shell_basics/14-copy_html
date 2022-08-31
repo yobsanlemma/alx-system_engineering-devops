@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./*.htm .. -n
+cp ./*.html .. -n
